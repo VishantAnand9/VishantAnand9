@@ -14,13 +14,11 @@
 </p>
 
 <br/>
-
-<p align="center">
+<p align="left">
   👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.<br/>
   💬 Ask me about anything, I am happy to help.<br/>
-  [📫](mailto:vishantanand9@gmail.com) 👈 Send me an email if you want to reach me out!.
+  <a href="mailto:vishantanand9@gmail.com">📫</a> 👈 Send me an email if you want to reach me out!.
 </p>
-
 ---
 
 ---
