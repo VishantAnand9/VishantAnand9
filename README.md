@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  <img src="https://thenounproject.com/icon/developer-1792103" alt="developer icon" style="vertical-align: middle;"/>
+  <img src="https://static.thenounproject.com/png/1792103-200.png" alt="developer icon" style="vertical-align: middle; width: 48px; height: 48px;"/>
   I’m interested in MLops, data science, deep learning, NLP, AI and more.<br/>
-  <img src="https://img.icons8.com/fluent/48/000000/chat.png" alt="chat icon" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/color/48/000000/chat.png" alt="chat icon" style="vertical-align: middle;"/>
   Ask me about anything, I am happy to help.<br/>
-  <img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="email icon" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="email icon" style="vertical-align: middle;"/>
   Send me an email if you want to reach me out!.
 </p>
 
