@@ -30,11 +30,35 @@
 
 ---
 
-### 🛠 Core Skills:
+<!--### 🛠 Core Skills:
 - **Programming, Cloud Computing & Big Data**: Python(TensorFlow, OpenCV, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK), JavaScript(React,Express),HTML,CSS, R, SQL(PostgreSQL, MySQL, BigQuery), AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Vertex AI, Auto ML, DataProc, DataFlow), Apache(Spark, Hadoop, Beam, Hive, Airflow)
 - **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning(CNNs, RNNs, GRUs, LSTM, Transformers), NLP, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tuning
 - **DevOps, Data Visualization & MLOps**: Docker, Kubernetes, Mage, Tableau, Power BI, Looker, Git, GitHub
+-->
+### 🛠 Core Skills
 
+#### Programming, Cloud Computing & Big Data
+- **Languages**: Python (TensorFlow, OpenCV, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK), JavaScript (React, Express), HTML, CSS, R, SQL (PostgreSQL, MySQL, BigQuery)
+- **Cloud Platforms**: AWS (SageMaker, EC2, S3, Lambda), GCP (Compute Engine, Vertex AI, Auto ML, DataProc, DataFlow)
+- **Big Data Technologies**: Apache (Spark, Hadoop, Beam, Hive, Airflow)
+
+#### Machine Learning
+- **Supervised & Unsupervised Learning**
+- **Deep Learning**: CNNs, RNNs, GRUs, LSTM, Transformers
+- **NLP**
+- **Predictive Modeling**
+- **Time Series Analysis**
+- **Feature Engineering**
+- **Model Evaluation**
+- **Model Tuning**
+- **Validation Methods**
+- **Optimization Techniques**
+- **Hyperparameter Tuning**
+
+#### DevOps, Data Visualization & MLOps
+- **Tools**: Docker, Kubernetes, Mage
+- **Data Visualization**: Tableau, Power BI, Looker
+- **Version Control**: Git, GitHub
 ---
 
 ### 🌐 Portfolio and Contributions:
