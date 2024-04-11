@@ -8,12 +8,45 @@
   <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="GIF" width="300" height="225"/>
 </p>
 
-<details>
-  <summary><strong>🌟 Meet Vishant Anand 🌟</strong></summary>
-  <p align="center">
-    Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.
-  </p>
-</details>
+<p align="center">
+  <strong><span style="border-bottom: 1px dotted;">🌟 Meet Vishant Anand 🌟</span></strong>
+</p>
+
+<style>
+  span:hover::after {
+    content: "Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.";
+    background-color: #f0f0f0;
+    color: #333;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    width: 300px;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  span:hover::before {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #f0f0f0 transparent;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  span:hover::after,
+  span:hover::before {
+    opacity: 1;
+  }
+</style>
+
 <!--
 <p align="center" style="font-size: 14px; font-family: Garamond;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
