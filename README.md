@@ -8,19 +8,12 @@
   <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="GIF" width="300" height="225"/>
 </p>
 
-<div align="center" style="font-size: 14px; font-family: Garamond;">
-  <strong><span id="hover-text">🌟 Meet Vishant Anand 🌟</span></strong><br/>
-  <span id="hover-content" style="display: none;">Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.</span>
-</div>
-
-<script>
-  document.getElementById('hover-text').addEventListener('mouseover', function() {
-    document.getElementById('hover-content').style.display = 'block';
-  });
-  document.getElementById('hover-text').addEventListener('mouseleave', function() {
-    document.getElementById('hover-content').style.display = 'none';
-  });
-</script>
+<details>
+  <summary><strong>🌟 Meet Vishant Anand 🌟</strong></summary>
+  <p align="center">
+    Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.
+  </p>
+</details>
 <!--
 <p align="center" style="font-size: 14px; font-family: Garamond;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
