@@ -1,43 +1,27 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Vishant.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
-<!-- </p>
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" /></p> -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Vishant.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50">
+  </a>
+</p>
 
-<!--<h2 align="center">Welcome! I'm Vishant Anand</h2>-->
-
-<!--<p align='center'>
-  🎓 <strong> Aspiring Data Analyst and Alumnus of Saint Peter's University</strong> 🎓<br/>
-
-  I'm Vishant Anand, Detail-oriented Data Analyst with a Master's degree in Data Science and 3+ years of experience. Expertise in SQL for data validation and manipulation, skilled in Tableau and Power BI for compelling data visualizations. Passionate about staying up-to-date with industry best practices and Agile methodologies for continuous improvement. Outside of data realms, you can find me indulging in hobbies like playing Esports, Badminton, and going for long walks.
-
- <!-- <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />-->
-  
-<br/>
-<br/>
-<br/>-->
-
-
-<p align='center'>
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="gif" />
 </p>
 
-<p align='center'>
+<p align="center">
   <strong>🌟 Meet Vishant Anand 🌟</strong><br/>
   Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.
 </p>
 
-
-- 👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.
-- 💬 Ask me about anything, I am happy to help.
-- [📫](mailto:vishantanand9@gmail.com) 👈 Send me an email if you want to reach me out!.
-<!-- [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you cand find my résumé. -->
-
-
 <br/>
-<br/>
-<br/>
+
+<p align="center">
+  👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.<br/>
+  💬 Ask me about anything, I am happy to help.<br/>
+  [📫](mailto:vishantanand9@gmail.com) 👈 Send me an email if you want to reach me out!.
 </p>
 
+---
 
 ---
 
