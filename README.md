@@ -14,11 +14,12 @@
 </p>
 
 <p align="left">
-  👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.<br/>
-  💬 Ask me about anything, I am happy to help.<br/>
-  <a href="mailto:vishantanand9@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="email" style="vertical-align: middle;"/>
-  </a> 👈 Send me an email if you want to reach me out!.
+  <img src="https://img.icons8.com/fluent/48/000000/developer.png" alt="developer icon" style="vertical-align: middle;"/>
+  I’m interested in MLops, data science, deep learning, NLP, AI and more.<br/>
+  <img src="https://img.icons8.com/fluent/48/000000/chat.png" alt="chat icon" style="vertical-align: middle;"/>
+  Ask me about anything, I am happy to help.<br/>
+  <img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="email icon" style="vertical-align: middle;"/>
+  Send me an email if you want to reach me out!.
 </p>
 
 
