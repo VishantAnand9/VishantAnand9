@@ -4,9 +4,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="gif" />
-</p>
+div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
 
 <p align="center" style="font-size: 14px; font-family: Garamond;">
   <strong>🌟 Meet Vishant Anand 🌟</strong><br/>
