@@ -17,13 +17,18 @@
 <br/>-->
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/🎓-Aspiring%20Data%20Analyst%20and%20Alumnus%20of%20Saint%20Peter's%20University-9cf?style=for-the-badge" alt="badge" />
+  <img src="YOUR_GIF_URL_HERE" alt="gif" />
 </p>
 
 <p align='center'>
-  <strong>🌟 Vishant Anand 🌟</strong><br/>
-  Detail-oriented Data Analyst with a Master's degree in Data Science and 3+ years of experience. Expertise in SQL for data validation and manipulation, skilled in Tableau and Power BI for compelling data visualizations. Passionate about staying up-to-date with industry best practices and Agile methodologies for continuous improvement. Outside of data realms, you can find me indulging in hobbies like playing Esports, Badminton, and going for long walks.
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="gif" />
 </p>
+
+<p align='center'>
+  <strong>🌟 Meet Vishant Anand 🌟</strong><br/>
+  Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.
+</p>
+
 
 - 👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.
 - 💬 Ask me about anything, I am happy to help.
