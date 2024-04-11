@@ -13,13 +13,14 @@
   Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.
 </p>
 
-<br/>
 <p align="left">
   👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.<br/>
   💬 Ask me about anything, I am happy to help.<br/>
-  <a href="mailto:vishantanand9@gmail.com">📫</a> 👈 Send me an email if you want to reach me out!.
+  <a href="mailto:vishantanand9@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="email" style="vertical-align: middle;"/>
+  </a> 👈 Send me an email if you want to reach me out!.
 </p>
----
+
 
 ---
 
