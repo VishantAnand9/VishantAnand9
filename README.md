@@ -63,13 +63,6 @@
 ### 🌐 Portfolio and Contributions
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-vishant-667bbb207)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/VishantAnand24/)
-
-<!--
-### 🌐 Portfolio and Contributions:
-- [LinkedIn](https://www.linkedin.com/in/anand-vishant-667bbb207)
-<!--- [Portfolio Website](https://efthimiosvlahos-github-io.vercel.app/)-->
-- [LeetCode](https://leetcode.com/VishantAnand24/)
--->
 ---
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
