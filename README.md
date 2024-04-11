@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-size: 14px; font-family: Garamond;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Vishant.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50">
   </a>
@@ -8,12 +8,12 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="gif" />
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 14px; font-family: Garamond;">
   <strong>🌟 Meet Vishant Anand 🌟</strong><br/>
   Hi there! I'm Vishant Anand, a Data Analyst passionate about uncovering insights from data and translating them into actionable strategies. With a Master's degree in Data Science and 3+ years of experience, I specialize in SQL for data validation and manipulation. I also have a knack for creating compelling data visualizations using Tableau and Power BI. Outside of work, I enjoy gaming, playing Badminton, and going for long walks to unwind.
 </p>
 
-<p align="left">
+<p align="left" style="font-size: 14px; font-family: Garamond;">
   <img src="https://static.thenounproject.com/png/1792103-200.png" alt="developer icon" style="vertical-align: middle; width: 48px; height: 48px;"/>
   I’m interested in MLops, data science, deep learning, NLP, AI and more.<br/>
   <img src="https://img.icons8.com/color/48/000000/chat.png" alt="chat icon" style="vertical-align: middle;"/>
@@ -22,14 +22,8 @@
   Send me an email if you want to reach me out!.
 </p>
 
-
 ---
 
-<!--### 🛠 Core Skills:
-- **Programming, Cloud Computing & Big Data**: Python(TensorFlow, OpenCV, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK), JavaScript(React,Express),HTML,CSS, R, SQL(PostgreSQL, MySQL, BigQuery), AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Vertex AI, Auto ML, DataProc, DataFlow), Apache(Spark, Hadoop, Beam, Hive, Airflow)
-- **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning(CNNs, RNNs, GRUs, LSTM, Transformers), NLP, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tuning
-- **DevOps, Data Visualization & MLOps**: Docker, Kubernetes, Mage, Tableau, Power BI, Looker, Git, GitHub
--->
 ### 🛠 Core Skills
 
 #### Programming, Cloud Computing & Big Data
@@ -54,11 +48,15 @@
 - **Tools**: Docker, Kubernetes, Mage
 - **Data Visualization**: Tableau, Power BI, Looker
 - **Version Control**: Git, GitHub
+
 ---
+
 ### 🌐 Portfolio and Contributions
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-vishant-667bbb207)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/VishantAnand24/)
+
 ---
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -100,6 +98,3 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google%20cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
-
-
-
